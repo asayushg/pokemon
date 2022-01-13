@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "superhero",
+    "slug": "superhero",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "superhero"
+}
