@@ -6,7 +6,7 @@ const StatView = ({name}) =>{
 
     const [width, setWidth] = useState(new Animated.Value(0));
 
-    let value = getRandomInt(40,250);
+    const [value, v] = useState(getRandomInt(40, 250));
     let text = value + '/250';
 
     const barStyles = {
